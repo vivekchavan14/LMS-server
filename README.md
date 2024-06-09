@@ -1,6 +1,6 @@
 # LMS-server
 
-Design implementation of what we are actually building
+Design implementation of what should be built
 
 ## Considerations:
 - Microservice architecture
